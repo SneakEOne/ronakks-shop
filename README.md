@@ -44,4 +44,4 @@ Contributions are welcome! If you have an idea for improving the script or fixin
 
 For more details or assistance, join my Discord community or open an issue here on GitHub. Your feedback is invaluable in helping improve and expand this project.
 
-ROnakk's Shop Creator is part of my mission to make high-quality, unique scripts available for free to the FiveM community. Join us and let's create something amazing together!
+> ROnakk's Shop Creator is part of my mission to make high-quality, unique scripts available for free to the FiveM community. Join us and let's create something amazing together!
